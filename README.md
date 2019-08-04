@@ -6,4 +6,4 @@ Các bước thao tác <br />
 ```
 python chuyenanh.py 
 ```
-3.File gif sẽ xuất ra với tên gọi <span style="background-color: #FFFF00">ketqua.gif</span>
+3.File gif sẽ xuất ra với tên gọi <span style="background-color: #FFFF00">clip.gif</span>
